@@ -1,10 +1,10 @@
 # CIVE 202 Project #1  
 ## Nebraska Air Quality Analysis Using AirPurple Sensors
 
-**Student:** Bhuwanraj Singh Parihar  
+**By:** Bhuwanraj Singh Parihar  
 **Course:** CIVE 202 – Civil Engineering Analysis II  
 **Client:** UNMC Water, Climate, and Health Working Group  
-**Submission Date:** January 31, 2026  
+January 31, 2026  
 
 ---
 
@@ -30,11 +30,11 @@ This analysis was designed to answer the following:
 
 | File | Description |
 |------|-------------|
-| **AirQuality_Daily_StudentVersion.csv** | Raw air quality dataset used in analysis |
-| **CIVE202_Spring2026_Bhuwanraj_Project1_PythonCode.ipynb** | Jupyter Notebook containing all analysis code |
-| **CIVE202_Spring2026_Bhuwanraj_Project1_ACD.docx** | Annotated Code Document explaining each code section |
-| **CIVE202_Spring2026_Bhuwanraj_Project1_SOW.docx** | Scope of Work outlining project tasks and deliverables |
-| **CIVE202_Spring2026_Bhuwanraj_Project1_Report.docx** | Final client-ready report with results and discussion |
+| [**AirQuality_Daily_StudentVersion.csv**](AirQuality_Daily_StudentVersion.csv) | Raw air quality dataset used in analysis |
+| [**CIVE202_Spring2026_Bhuwanraj_Project1_PythonCode.ipynb**](CIVE202_Spring2026_Bhuwanraj_Project1_PythonCode.ipynb) | Jupyter Notebook containing all analysis code |
+| [**CIVE202_Spring2026_Bhuwanraj_Project1_ACD.docx**](CIVE202_Spring2026_Bhuwanraj_Project1_ACD.docx) | Annotated Code Document explaining each code section |
+| [**CIVE202_Spring2026_Bhuwanraj_Project1_SOW.docx**](CIVE202_Spring2026_Bhuwanraj_Project1_SOW.docx) | Scope of Work outlining project tasks and deliverables |
+| [**CIVE202_Spring2026_Bhuwanraj_Project1_Report.docx**](CIVE202_Spring2026_Bhuwanraj_Project1_Report.docx) | Final client-ready report with results and discussion |
 
 ---
 
