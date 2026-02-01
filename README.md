@@ -61,8 +61,8 @@ All steps are fully documented in the Jupyter Notebook and Annotated Code Docume
 ## How to Run the Analysis
 
 1. Download or clone this repository.
-2. Ensure `AirQuality_Daily_StudentVersion.csv` is in the same folder as the notebook.
-3. Open **CIVE202_Spring2026_Bhuwanraj_Project1_PythonCode.ipynb** in Jupyter Notebook.
+2. Ensure [**AirQuality_Daily_StudentVersion.csv**](AirQuality_Daily_StudentVersion.csv) is in the same folder as the notebook.
+3. Open [**CIVE202_Spring2026_Bhuwanraj_Project1_PythonCode.ipynb**](CIVE202_Spring2026_Bhuwanraj_Project1_PythonCode.ipynb) in Jupyter Notebook.
 4. Run all cells from top to bottom.
 
 ---
